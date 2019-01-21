@@ -69,6 +69,7 @@ class UsersController extends AppController
     public function affichageEns(){
 
         dd('coucou Ens');
+        /*truc random*/
 
 
     }
